@@ -1,0 +1,21 @@
+{
+    "name": "PUMA",
+    "type": "BEP20",
+    "symbol": "PUMA",
+    "decimals": 18,
+    "website": "https://tinyurl.com/PUMA-TOKEN",
+    "description": "PUMAChain is a public, decentralized blockchain and smart contract platform that enables message passing and value transfer between any blockchain.",
+    "explorer": "https://bscscan.com/token/0x305db20c790dbe3d0f60d8ebb01c7a9bdfc6a57f",
+    "status": "active",
+    "id": "0x305DB20c790Dbe3d0F60d8eBB01c7a9BdfC6a57F",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/pumaowi"
+        },
+        {
+            "name": "geckoterminal",
+            "url": "https://www.geckoterminal.com/bsc/pools/0xd2674d7785cfb745ba6a6aa7e3ce773cabd86a0e"
+        }
+    ]
+}
